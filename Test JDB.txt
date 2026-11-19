@@ -1,0 +1,4 @@
+Archivo de prueba - Test JDB
+Autor: Jorge Duarte
+Proyecto: Turbo-Activado
+Objetivo: Verificar la colaboración mediante Git y GitHub.
